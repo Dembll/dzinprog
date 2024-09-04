@@ -129,5 +129,5 @@ def fibonacci(n):
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
-print(fibonacci(10))  # Обчислюється
-print(fibonacci(10))  # Використання кешу
+print(fibonacci(10))  
+print(fibonacci(10)) 
